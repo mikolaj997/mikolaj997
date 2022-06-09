@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Mikołaj Orzoł
+
 obecnie: Dostawca
 
-Email: mikołaj.orzol22@gmail.com
+Email: mikolaj.orzol22@gmail.com
 
 Nr. Telefonu 666 8** **5
 
