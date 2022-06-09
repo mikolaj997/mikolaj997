@@ -34,10 +34,15 @@ Wykształcenie:
 Języki obce
 -Dobry Angielski
 -średni Hiszpański
+
 Umiejętności:
 -podstawy c#
+
 - podstawy javy
+- 
 -podstawy javaScriptu, html i css
+
 -podstawy SQl
+
 - podstawy linuxa
 
