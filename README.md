@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Mikołaj Orzoł
-Dostawca    								 
+obecnie: Dostawca
+
 Email: mikołaj.orzol22@gmail.com
+
 Nr. Telefonu 666 8** **5
 
 Obecnie mam 20 lat i studiuję na 1 roku na Uniwersytecie Gdańskim. Jestem wytrwały i ambitny.
 
 Doświadczenie zawodowe:
 Dostawca Wolta(ten rok)
+
 Wykształcenie:
 - 2 liceum ogólnokształcące Adama Mickiewicza w Gdyni kierunek mat-geo
 - obecnie studiu na kierunku informatyka ekonometria na ug
