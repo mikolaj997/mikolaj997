@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 Mikołaj Orzoł
 
-obecnie: Dostawca
+obecnie: kurier
 
 Email: mikolaj.orzol22@gmail.com
 
-Nr. Telefonu 666 8** **5
+Nr. Telefonu 666 872 285
 
-Obecnie mam 20 lat i studiuję na 1 roku na Uniwersytecie Gdańskim. Jestem wytrwały i ambitny.
+Obecnie mam 20 lat i studiuję na 2 roku na Uniwersytecie Gdańskim. Jestem wytrwały i ambitny.
 
 Doświadczenie zawodowe:
 Dostawca Wolta(ten rok)
@@ -32,7 +32,7 @@ Wykształcenie:
 - obecnie studiu na kierunku informatyka ekonometria na ug
 
 Języki obce
--Dobry Angielski
+- Dobry Angielski
 -średni Hiszpański
 
 Umiejętności:
