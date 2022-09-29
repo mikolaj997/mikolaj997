@@ -18,7 +18,7 @@ Mikołaj Orzoł
 
 obecnie: kurier
 
-Email: mikolaj.orzol22@gmail.com
+Email: mikolaj.orzol@onet.pl
 
 Nr. Telefonu 666 872 285
 
