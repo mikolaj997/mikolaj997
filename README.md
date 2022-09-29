@@ -32,17 +32,20 @@ Wykształcenie:
 - obecnie studiu na kierunku informatyka ekonometria na ug
 
 Języki obce
-- Dobry Angielski
+
+-komynikatywny Angielski
+
 -średni Hiszpański
 
 Umiejętności:
+
 -podstawy c#
 
-- podstawy javy
-- 
+-podstawy javy
+
 -podstawy javaScriptu, html i css
 
 -podstawy SQl
 
-- podstawy linuxa
+-podstawy linuxa
 
