@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 Mikołaj Orzoł
 
-obecnie: kurier
-
 Email: mikolaj.orzol@onet.pl
 
 Nr. Telefonu 666 872 285
 
-Obecnie mam 20 lat i studiuję na 2 roku na Uniwersytecie Gdańskim. Jestem wytrwały i ambitny.
+Obecnie mam 22 lata i studiuję na 3 roku w Uniwersytecie Gdańskim. Jestem wytrwały i ambitny.
 
 Doświadczenie zawodowe:
-Dostawca Wolta(ten rok)
+Dostawca Wolta(2 lata);
+Prace sezonowe;
+Młodszy specjalista ds. IT (Penta)
 
 Wykształcenie:
 - 2 liceum ogólnokształcące Adama Mickiewicza w Gdyni kierunek mat-geo
@@ -33,7 +33,7 @@ Wykształcenie:
 
 Języki obce
 
--komynikatywny Angielski
+-Komynikatywny Angielski
 
 -średni Hiszpański
 
@@ -43,9 +43,13 @@ Umiejętności:
 
 -podstawy javy
 
--podstawy javaScriptu, html i css
+-średni poziom javaScriptu i Reacta
+
+-dobry poziom htmla i cssa
 
 -podstawy SQl
 
 -podstawy linuxa
+
+-podstawy vue.js
 
