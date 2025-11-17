@@ -23,13 +23,13 @@ Nr. Telefonu 666 872 285
 # Obecnie mam 23 lata i studiuję na 5 roku na Uniwersytecie Gdańskim. Jestem wytrwały i ambitny.
 
 # Doświadczenie zawodowe:
-- Dostawca Wolta(2 lata);
+- Dostawca Wolta(prawie 2 lata);
   - okres: 01/2022 - 11/2023
 - Prace sezonowe;
   - okres: 2019 - 2025 (okres wakacyjny)   
 - Młodszy specjalista ds. IT (Penta);
   - okres: 11/2023 - 12/2023 
-- Taxi(3 msc);
+- Taksówkarz(3 msc);
   - okres: 12.02.2025-12.05.2025
 - Junior Developer(2 msc);
   - okres: 2019 - 2025 (okres wakacyjny)
@@ -41,11 +41,9 @@ Nr. Telefonu 666 872 285
 
 # Języki obce
 
--Średniozaawansowany Angielski
-
--Podstawowy Hiszpański
-
--Podstawowy Niemiecki
+- Średniozaawansowany Angielski
+- Podstawowy Hiszpański
+- Podstawowy Niemiecki
 
 # Umiejętności:
 
@@ -59,7 +57,7 @@ optymalizacja czasu
   - Dobrze znane technologie:
     - React/JavaScript/HTML/CSS
   - Inne znane technologie:
-Tableu Public/ Microsoft Power Apps/ Vue.js/Angular/Figma/Python/UML/C#/Sql/Java/Ruby/Sass/PHP/Node.js/ Power BI/Jenkins/ Visual Studio Code/ GitHub/
+    - Tableu Public/ Microsoft Power Apps/ Vue.js/Angular/Figma/Python/UML/C#/Sql/Java/Ruby/Sass/PHP/Node.js/ Power BI/Jenkins/ Visual Studio Code/ GitHub/
   - inne:
     - Praca z Claude Code
 
