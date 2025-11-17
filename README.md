@@ -20,21 +20,21 @@ Email: mikolaj.orzol@onet.pl
 
 Nr. Telefonu 666 872 285
 
-Obecnie mam 23 lata i studiuję na 5 roku w Uniwersytecie Gdańskim. Jestem wytrwały i ambitny.
+#Obecnie mam 23 lata i studiuję na 5 roku na Uniwersytecie Gdańskim. Jestem wytrwały i ambitny.
 
-Doświadczenie zawodowe:
-Dostawca Wolta(2 lata);
-Prace sezonowe;
-Młodszy specjalista ds. IT (Penta);
-Taxi(3 msc);
-Junior Developer(2 msc);
+#Doświadczenie zawodowe:
+- Dostawca Wolta(2 lata);
+- Prace sezonowe;
+- Młodszy specjalista ds. IT (Penta);
+- Taxi(3 msc);
+- Junior Developer(2 msc);
 
-Wykształcenie:
+#Wykształcenie:
 - 2 liceum ogólnokształcące Adama Mickiewicza w Gdyni kierunek mat-geo
 - obecnie studiu na kierunku informatyka ekonometria na ug
 - Tytuł: Licencjat - Uniwersytet Gdański
 
-Języki obce
+#Języki obce
 
 -Średniozaawansowany Angielski
 
@@ -42,19 +42,19 @@ Języki obce
 
 -Podstawowy Niemiecki
 
-Umiejętności:
+#Umiejętności:
 
--podstawy c#
+optymalizacja czasu 
+budowa relacji z klientem 
+promowanie marki 
+wytrwałość
+krytyczne myślenie
 
--podstawy javy
-
--średni poziom javaScriptu i Reacta
-
--dobry poziom htmla i cssa
-
--podstawy SQl
-
--podstawy linuxa
-
--podstawy vue.js
+Techniczne:
+Dobrze znane technologie:
+React/JavaScript/HTML/CSS
+ Inne znane technologie:
+Tableu Public/ Microsoft Power Apps/ Vue.js/Angular/Figma/Python/UML/C#/Sql/Java/Ruby/Sass/PHP/Node.js/ Power BI/Jenkins/ Visual Studio Code/ GitHub/
+inne:
+Praca z Claude Code
 
