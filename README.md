@@ -20,13 +20,14 @@ Email: mikolaj.orzol@onet.pl
 
 Nr. Telefonu 666 872 285
 
-Obecnie mam 23 lata i studiuję na 4 roku w Uniwersytecie Gdańskim. Jestem wytrwały i ambitny.
+Obecnie mam 23 lata i studiuję na 5 roku w Uniwersytecie Gdańskim. Jestem wytrwały i ambitny.
 
 Doświadczenie zawodowe:
 Dostawca Wolta(2 lata);
 Prace sezonowe;
-Młodszy specjalista ds. IT (Penta)
+Młodszy specjalista ds. IT (Penta);
 Taxi(3 msc);
+Junior Developer(2 msc);
 
 Wykształcenie:
 - 2 liceum ogólnokształcące Adama Mickiewicza w Gdyni kierunek mat-geo
