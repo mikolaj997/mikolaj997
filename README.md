@@ -24,10 +24,15 @@ Nr. Telefonu 666 872 285
 
 # Doświadczenie zawodowe:
 - Dostawca Wolta(2 lata);
+-   okres: 01/2022 - 11/2023
 - Prace sezonowe;
+  - okres: 2019 - 2025 (okres wakacyjny)   
 - Młodszy specjalista ds. IT (Penta);
+-   okres: 11/2023 - 12/2023 
 - Taxi(3 msc);
+-   okres: 12.02.2025-12.05.2025
 - Junior Developer(2 msc);
+-   okres: 2019 - 2025 (okres wakacyjny)
 
 # Wykształcenie:
 - 2 liceum ogólnokształcące Adama Mickiewicza w Gdyni kierunek mat-geo
@@ -56,5 +61,5 @@ optymalizacja czasu
   - Inne znane technologie:
 Tableu Public/ Microsoft Power Apps/ Vue.js/Angular/Figma/Python/UML/C#/Sql/Java/Ruby/Sass/PHP/Node.js/ Power BI/Jenkins/ Visual Studio Code/ GitHub/
   - inne:
-Praca z Claude Code
+    - Praca z Claude Code
 
