@@ -1,6 +1,7 @@
-// ### Hi there 👋
+
 
 <!--
+// ### Hi there 👋
 **mikolaj997/mikolaj997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,7 +19,7 @@ Mikołaj Orzoł
 
 Email: mikolaj.orzol@onet.pl
 
-Nr. Telefonu 666 872 285
+Nr. Telefonu: 666 872 285
 
 # Obecnie mam 24 lata i jestem absolwentem Uniwersytetu Gdańskiego. Jestem wytrwały i ambitny.
 
@@ -39,8 +40,8 @@ Nr. Telefonu 666 872 285
 - obecnie studiu na kierunku informatyka ekonometria na ug
 - Tytuł: Licencjat - Uniwersytet Gdański
 - Tytuł: Magister - Uniwersytet Gdański
-# Języki obce
 
+# Języki obce
 - Średniozaawansowany Angielski
 - Podstawowy Hiszpański (A1/A2)
 - Podstawowy Niemiecki
