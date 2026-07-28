@@ -1,4 +1,4 @@
-### Hi there 👋
+// ### Hi there 👋
 
 <!--
 **mikolaj997/mikolaj997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +32,7 @@ Nr. Telefonu 666 872 285
 - Taksówkarz(3 msc);
   - okres: 12.02.2025-12.05.2025
 - Junior Developer w Yameo(2 msc);
-  - okres: 22./8/2025 - 31/10/2025 
+  - okres: 22/8/2025 - 31/10/2025 
 
 # Wykształcenie:
 - 2 liceum ogólnokształcące Adama Mickiewicza w Gdyni kierunek mat-geo
@@ -42,7 +42,7 @@ Nr. Telefonu 666 872 285
 # Języki obce
 
 - Średniozaawansowany Angielski
-- Podstawowy Hiszpański
+- Podstawowy Hiszpański (A1/A2)
 - Podstawowy Niemiecki
 
 # Umiejętności:
