@@ -1,42 +1,38 @@
+# O mnie
+
 🇵🇱 Polski | 🇬🇧 [English](README.md)
 
-Obecnie mam 24 lata i jestem absolwentem Uniwersytetu Gdańskiego. Jestem wytrwały i ambitny.
-Doświadczenie zawodowe:
-Dostawca Wolta(prawie 2 lata);
-okres: 01/2022 - 11/2023
-Prace sezonowe;
-okres: 2019 - 2025 (okres wakacyjny)
-Młodszy specjalista ds. IT (Penta);
-okres: 11/2023 - 12/2023
-Taksówkarz(3 msc);
-okres: 12.02.2025-12.05.2025
-Junior Developer w Yameo(2 msc);
-okres: 22/8/2025 - 31/10/2025
-Wykształcenie:
-2 liceum ogólnokształcące Adama Mickiewicza w Gdyni kierunek mat-geo
-obecnie studiu na kierunku informatyka ekonometria na ug
-Tytuł: Licencjat - Uniwersytet Gdański
-Tytuł: Magister - Uniwersytet Gdański
-Języki obce
-Średniozaawansowany Angielski
-Podstawowy Hiszpański (A1/A2)
-Podstawowy Niemiecki
-Umiejętności:
-optymalizacja czasu
+Absolwent studiów licencjackich i magisterskich na kierunku Informatyka i Ekonometria na Uniwersytecie Gdańskim.
 
-budowa relacji z klientem
+## Doświadczenie zawodowe
 
-promowanie marki
+- Junior Developer – Yameo (2 miesiące)
+- Młodszy Specjalista ds. IT – Penta (1 miesiąc)
+- Dostawca Wolt (prawie 2 lata)
+- Praca sezonowa (2019 - 2025 (okresy wakacyjne))
+- Taksówkarz(3 miesiace);
 
-wytrwałość
+## Wykształcenie
 
-krytyczne myślenie
+- Magister Informatyki i Ekonometrii – Uniwersytet Gdański
+- Licencjat Informatyki i Ekonometrii – Uniwersytet Gdański
 
-Techniczne:
+## Technologie
 
-Dobrze znane technologie:
-React/JavaScript/HTML/CSS
-Inne znane technologie:
-Tableu Public/ Microsoft Power Apps/ Vue.js/Angular/Figma/Python/UML/C#/Sql/Java/Ruby/Sass/PHP/Node.js/ Power BI/Jenkins/ Visual Studio Code/ GitHub/
-inne:
-Praca z Claude Code
+**Frontend:** React, Angular, Vue.js, JavaScript, TypeScript, HTML, CSS, Sass
+
+**Backend:** Node.js, C#, Java, PHP, Ruby
+
+**Dane:** SQL, Python, Tableau Public, Power BI
+
+**Narzędzia:** GitHub, Visual Studio Code, Jenkins, Figma, UML
+
+## Języki
+
+- Angielski – zaawansowany
+- Niemiecki – podstawowy
+- Hiszpański – podstawowy
+
+## Zainteresowania
+
+Programowanie, sport, filmy i dobre jedzenie.
