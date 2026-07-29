@@ -15,50 +15,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Mikołaj Orzoł
+# About Me
 
-Email: mikolaj.orzol@onet.pl
+🇬🇧 English | 🇵🇱 [Polski](README.pl.md)
 
-Nr. Telefonu: 666 872 285
+Bachelor's and Master's graduate in Computer Science and Econometrics from the University of Gdańsk.
 
-# Obecnie mam 24 lata i jestem absolwentem Uniwersytetu Gdańskiego. Jestem wytrwały i ambitny.
+## Professional Experience
 
-# Doświadczenie zawodowe:
-- Dostawca Wolta(prawie 2 lata);
-  - okres: 01/2022 - 11/2023
-- Prace sezonowe;
-  - okres: 2019 - 2025 (okres wakacyjny)  
-- Młodszy specjalista ds. IT (Penta);
-  - okres: 11/2023 - 12/2023 
-- Taksówkarz(3 msc);
-  - okres: 12.02.2025-12.05.2025
-- Junior Developer w Yameo(2 msc);
-  - okres: 22/8/2025 - 31/10/2025 
+- Junior Developer – Yameo (2 months)
+- Junior IT Specialist – Penta (1 month)
+- Wolt Courier (almost 2 years)
+- Taxi Driver (3 months)
+- Seasonal Job (2019 - 2025 (summer holiday periods)) 
 
-# Wykształcenie:
-- 2 liceum ogólnokształcące Adama Mickiewicza w Gdyni kierunek mat-geo
-- obecnie studiu na kierunku informatyka ekonometria na ug
-- Tytuł: Licencjat - Uniwersytet Gdański
-- Tytuł: Magister - Uniwersytet Gdański
+## Education
 
-# Języki obce
-- Średniozaawansowany Angielski
-- Podstawowy Hiszpański (A1/A2)
-- Podstawowy Niemiecki
+- M.Sc. in Computer Science and Econometrics – University of Gdańsk
+- B.Sc. in Computer Science and Econometrics – University of Gdańsk
 
-# Umiejętności:
+## Technologies
 
-optymalizacja czasu 
-- budowa relacji z klientem 
-- promowanie marki 
-- wytrwałość
-- krytyczne myślenie
+**Frontend:** React, Angular, Vue.js, JavaScript, TypeScript, HTML, CSS, Sass
 
-- Techniczne:
-  - Dobrze znane technologie:
-    - React/JavaScript/HTML/CSS
-  - Inne znane technologie:
-    - Tableu Public/ Microsoft Power Apps/ Vue.js/Angular/Figma/Python/UML/C#/Sql/Java/Ruby/Sass/PHP/Node.js/ Power BI/Jenkins/ Visual Studio Code/ GitHub/
-  - inne:
-    - Praca z Claude Code
+**Backend:** Node.js, C#, Java, PHP, Ruby
 
+**Data:** SQL, Python, Tableau Public, Power BI
+
+**Tools:** GitHub, Visual Studio Code, Jenkins, Figma, UML
+
+## Languages
+
+- English – Advanced
+- German – Basic
+- Spanish – Basic
+
+## Interests
+
+Programming, sports, movies, and good food.
+ 
