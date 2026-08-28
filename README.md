@@ -45,7 +45,7 @@ Bachelor's and Master's graduate in Computer Science and Econometrics from the U
 **Tools:** GitHub, Visual Studio Code, Jenkins, Figma, UML
 
 ## Languages
-
+- Polish - Native
 - English – Advanced
 - German – Basic
 - Spanish – Basic
